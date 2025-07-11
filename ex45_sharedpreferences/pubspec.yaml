@@ -1,4 +1,4 @@
-name: ex49_api_nhis
+name: ex45_sharedpreferences
 description: "A new Flutter project."
 publish_to: 'none' 
 version: 1.0.0+1
@@ -9,8 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  http: ^1.4.0
-  xml2json: ^6.2.7
+  shared_preferences: ^2.5.3
 
 dev_dependencies:
   flutter_test:

@@ -1,4 +1,4 @@
-name: ex49_api_nhis
+name: ex41_tabbar
 description: "A new Flutter project."
 publish_to: 'none' 
 version: 1.0.0+1
@@ -9,8 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  http: ^1.4.0
-  xml2json: ^6.2.7
+  persistent_bottom_nav_bar: ^6.2.1
 
 dev_dependencies:
   flutter_test:
