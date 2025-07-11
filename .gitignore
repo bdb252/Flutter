@@ -1,0 +1,8 @@
+# only lib>main.dart, pubspec
+android
+ios
+test
+linux
+macos
+web
+windows
